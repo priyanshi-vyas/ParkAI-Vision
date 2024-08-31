@@ -22,8 +22,9 @@ This project is a web application that detects and counts free and occupied park
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Chando0185/car_parking_detection_space_count.git
-cd parking-space-detection
+git clone https://github.com/priyanshi-vyas/ParkAI-Vision.git
+cd ParkAI-Vision
+
 ```
 
 ### 2. Install Dependencies
